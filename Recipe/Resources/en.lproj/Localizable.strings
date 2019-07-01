@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+
+  Created by Suryakant on 3/4/19.
+  Copyright © 2019 Suryakant. All rights reserved.
+*/
+
+
+"recipes.list.header.title" = "Recipes";
+"recipe.detail.header.title" = "Recipe Detail";
+
+
+//error message
+"error.no.network.message" = "Network not available! Please connect to network and try again.";
+"error.no.record.found.message" = "Ops! No record Found.";
+"error.no.data.found.message" = "No Data found";
+"error.something.wrong.server.message" = "Something went wrong with the Server, please try some time later.";
+"error.default.message" = "Something went wrong.";
+
