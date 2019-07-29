@@ -1,12 +1,14 @@
 RECIPE
 
 SUMMARY
+
 This simple iOS application let user fetch recipes data from contentful and display them in a table view. When user click any of the tableview cell user will be present with the simple detail view
 Framework Used
 
 Contentful
 
 Contentful framework used to fetch data stored with contentful database.
+
 SDWebImage
 
 This library is used to download images from the Firebase Storage
